@@ -5,7 +5,7 @@ import time
 # ==========================================
 # 1. 你的個人金鑰與身分 ID
 # ==========================================
-API_KEY = "RGAPI-ba494fe4-b324-4cf9-b96c-1a8e08682e2a"
+API_KEY = ""
 MY_PUUID = "HwK2Dc6FQP-k0uiZnKnmbwt3GkZ2S0mIbY7A9ZdeMahIT8pid-lyEDO03I_TMpP0fVE4pGh2hIUyQ"
 REGION = "asia" # 台灣伺服器區域
 
